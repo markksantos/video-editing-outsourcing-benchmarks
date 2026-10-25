@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Video Editing Outsourcing Benchmarks from 7,056 Orders"
+type: dataset
+authors:
+  - name: "Mark Studios"
+    website: "https://www.markstudios.com"
+url: "https://www.markstudios.com/research/video-editing-outsourcing-benchmarks"
+license: CC-BY-4.0
+date-released: "2026-10-25"
+keywords:
+  - video editing
+  - outsourcing
+  - turnaround
+  - benchmarks
+  - freelance

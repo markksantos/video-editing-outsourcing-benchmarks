@@ -1,0 +1,78 @@
+table,row,value,unit,n
+About,"Mark Studios order records, orders placed Jan 1 2023 - Sep 22 2026, refunded and cancelled lines excluded. Method: https://www.markstudios.com/research/video-editing-outsourcing-benchmarks#how-we-analyzed-the-orders",,,
+"Scheduled delivery window, standalone orders",0-1 days,6.8,% of orders,435
+"Scheduled delivery window, standalone orders",2-3 days,14.7,% of orders,933
+"Scheduled delivery window, standalone orders",4-7 days,51.6,% of orders,3281
+"Scheduled delivery window, standalone orders",8-14 days,16.7,% of orders,1061
+"Scheduled delivery window, standalone orders",15-30 days,7.1,% of orders,450
+"Scheduled delivery window, standalone orders",Over 30 days,3.1,% of orders,198
+"Service mix of order lines, Jan 2023 - Sep 2026",Long-form video,55.1,% of order lines,4216
+"Service mix of order lines, Jan 2023 - Sep 2026",Short-form video,16.1,% of order lines,1229
+"Service mix of order lines, Jan 2023 - Sep 2026",Thumbnail,17.7,% of order lines,1353
+"Service mix of order lines, Jan 2023 - Sep 2026",Intro / outro,4.0,% of order lines,309
+"Service mix of order lines, Jan 2023 - Sep 2026","Other (consultations, strategy, design, voiceover, SEO)",7.0,% of order lines,539
+Raw footage per order line,5 min or less,56.8,% of lines with a length,2974
+Raw footage per order line,6-10 min,20.6,% of lines with a length,1081
+Raw footage per order line,11-20 min,14.4,% of lines with a length,752
+Raw footage per order line,21-30 min,4.7,% of lines with a length,244
+Raw footage per order line,31-60 min,2.9,% of lines with a length,150
+Raw footage per order line,Over 60 min,0.7,% of lines with a length,38
+"Raw footage per order line, Long-form video",5 min or less,53.4,% of lines with a length,2132
+"Raw footage per order line, Long-form video",6-10 min,21.8,% of lines with a length,870
+"Raw footage per order line, Long-form video",11-20 min,15.9,% of lines with a length,635
+"Raw footage per order line, Long-form video",21-30 min,5.1,% of lines with a length,202
+"Raw footage per order line, Long-form video",31-60 min,3.0,% of lines with a length,120
+"Raw footage per order line, Long-form video",Over 60 min,0.8,% of lines with a length,33
+"Raw footage per order line, Short-form video",5 min or less,69.6,% of lines with a length,778
+"Raw footage per order line, Short-form video",6-10 min,17.8,% of lines with a length,199
+"Raw footage per order line, Short-form video",11-20 min,8.2,% of lines with a length,92
+"Raw footage per order line, Short-form video",21-30 min,1.8,% of lines with a length,20
+"Raw footage per order line, Short-form video",31-60 min,2.1,% of lines with a length,24
+Repeat clients,Share of clients who ordered on 2+ dates,24.7,% of clients,3717
+Repeat clients,Share of orders placed by repeat clients,59.8,% of orders,
+Orders per client,1 order,74.5,% of clients,2769
+Orders per client,2 orders,13.0,% of clients,483
+Orders per client,3-5 orders,8.4,% of clients,314
+Orders per client,6-10 orders,2.7,% of clients,99
+Orders per client,11+ orders,1.4,% of clients,52
+Orders as % of trend (seasonality),Jan,102,"% of trend, mean",3
+Orders as % of trend (seasonality),Feb,100,"% of trend, mean",3
+Orders as % of trend (seasonality),Mar,103,"% of trend, mean",2
+Orders as % of trend (seasonality),Apr,110,"% of trend, mean",2
+Orders as % of trend (seasonality),May,100,"% of trend, mean",2
+Orders as % of trend (seasonality),Jun,98,"% of trend, mean",2
+Orders as % of trend (seasonality),Jul,101,"% of trend, mean",3
+Orders as % of trend (seasonality),Aug,107,"% of trend, mean",3
+Orders as % of trend (seasonality),Sep,94,"% of trend, mean",3
+Orders as % of trend (seasonality),Oct,102,"% of trend, mean",3
+Orders as % of trend (seasonality),Nov,90,"% of trend, mean",3
+Orders as % of trend (seasonality),Dec,90,"% of trend, mean",3
+"Scheduled delivery window by category, standalone orders",Long-form video,6.0,days (median),3568
+"Scheduled delivery window by category, standalone orders",Short-form video,6.0,days (median),1006
+"Scheduled delivery window by category, standalone orders",Thumbnail,3,days (median),1037
+"Scheduled delivery window by category, standalone orders",Intro / outro,7.0,days (median),284
+"Scheduled delivery window by category, standalone orders","Other (consultations, strategy, design, voiceover, SEO)",4,days (median),463
+Add-ons in orders with a long-form edit (order level),thumbnail,14.4,% of long-form orders,565
+Add-ons in orders with a long-form edit (order level),"footage, stock or B-roll research",8.8,% of long-form orders,346
+Add-ons in orders with a long-form edit (order level),short-form cut or vertical version,3.2,% of long-form orders,127
+Add-ons in orders with a long-form edit (order level),"express delivery (24-72h, rush)",2.6,% of long-form orders,102
+Add-ons in orders with a long-form edit (order level),voiceover,1.9,% of long-form orders,73
+Add-ons in orders with a long-form edit (order level),captions or subtitles (floor),0.7,% of long-form orders,28
+"Long-form orders with a thumbnail, by year",2023,13.0,% of long-form orders,133
+"Long-form orders with a thumbnail, by year",2024,15.1,% of long-form orders,202
+"Long-form orders with a thumbnail, by year",2025,15.8,% of long-form orders,160
+"Long-form orders with a thumbnail, by year",2026 (to Sep 22),13.1,% of long-form orders,70
+"Videos per order (orders with a video edit, n=5093)",1 video,87.9,% of orders,4478
+"Videos per order (orders with a video edit, n=5093)",2 videos,5.3,% of orders,272
+"Videos per order (orders with a video edit, n=5093)",3-5 videos,4.0,% of orders,203
+"Videos per order (orders with a video edit, n=5093)",6-10 videos,1.7,% of orders,86
+"Videos per order (orders with a video edit, n=5093)",11 or more videos,1.1,% of orders,54
+Repeat rate by first-order format (clients with 180+ days to return),thumbnail,29.7,% ordered again,144
+Repeat rate by first-order format (clients with 180+ days to return),long-form edit,23.3,% ordered again,439
+Repeat rate by first-order format (clients with 180+ days to return),short-form edit,23.1,% ordered again,151
+Repeat rate by first-order format (clients with 180+ days to return),intro / outro,17.6,% ordered again,34
+Repeat rate by first-order format (clients with 180+ days to return),other,34.0,% ordered again,87
+Repeat rate by first-order format (clients with 180+ days to return),all cohort clients,24.6,% ordered again,855
+"Refunded or cancelled lines by format (any status, n=7744)",long-form edit,1.2,% of lines,53
+"Refunded or cancelled lines by format (any status, n=7744)",short-form edit,1.8,% of lines,23
+"Refunded or cancelled lines by format (any status, n=7744)",thumbnail,1.1,% of lines,15
